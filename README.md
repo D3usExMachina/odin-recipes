@@ -1,3 +1,3 @@
 # odin-recipes
 Recettes Odin
-Je vais revenir ici pour le commit
+Voci mes trois recettes pour le projet Odin.
