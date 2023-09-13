@@ -1,10 +1,25 @@
+body {
+    background-color: hsl(215, 71%, 89%);
+    background-image: url("../img/morocco.png")/*Backgroun pattern Morocco style*/;
+}
 h1 {
-    background-color: hsl(215, 82%, 83%);
-    color: rgb(251, 122, 144);
+    background-color: hsl(215, 71%, 89%);
+    color: firebrick; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
 }
-li {
-    color: rgb(251, 122, 144);
+ul {
+    color: firebrick;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+h2 {
+    background-color: hsl(215, 71%, 89%);
+    color: firebrick;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+ol {
+    color: firebrick;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
